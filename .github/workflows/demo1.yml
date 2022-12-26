@@ -4,6 +4,7 @@ on:
     branches:
        - 'main'
        - 'master'
+       - 'noactionsrun'
   workflow_dispatch:
   pull_request:
      type: opened
